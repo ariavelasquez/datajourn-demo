@@ -1,0 +1,33 @@
+/* Additional style elements include:
+body - (1) background-color: #f1c6db; (2) text-align: center
+img - (3) border: solid; (4) border-color: #6e6666; (5) border-width: thick;
+li - (6) padding: 5px 0px 5px 0px;
+footer - (7) background color: black; */
+body {
+    font-family: Georgia, serif;
+    background-color: #f1c6db;
+    text-align: center;
+}
+
+img {
+    border: solid;
+    border-color: #6e6666;
+    border-width: thick;
+}
+
+figcaption {
+    color: #6e6666;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+li {
+    padding: 5px 0px 5px 0px;
+}
+
+footer {
+    color: #6e6666;
+    background-color: black;
+}
